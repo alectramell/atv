@@ -1,0 +1,52 @@
+======================================
+How to Install Apollon TV on Ubuntu!
+======================================
+
+There are three ways to install ApollonTV
+on Ubuntu..
+
+(1)
+
+you can Install by simply Downloading
+the Debian File from the Download Button
+on the Website.. Click, Download, Right-Click
+and use your local Installer..
+
+(2)
+
+You can download apollontv-install.sh from
+https://github.com/alectramell/atv/raw/master/apollontv-install.sh
+
+then, open a new Terminal window (CTRL+T), and run..
+
+	$ chmod 775 apollontv-install.sh
+	$ bash apollontv-install.sh
+
+and the Debian file will download, and Install all in one!
+
+(3)
+
+you can Download the Debian file (as mentioned in (1)) and
+run the following commands..
+
+	$ sudo dpkg -i apollontv-1.0.deb
+	$ sudo reboot
+
+And Wahlah! You Have ApollonTV!
+
+NOTE!..
+
+After you install ApollonTV, you can access more help by running
+the follwing command..
+
+	$ apollontv-help
+
+Did this article help?..
+..Let us know how we did, msg us on facebook by visiting..
+
+	m.me//apollondma
+or..
+	https://www.facebook.com/apollondma 
+
+
+Thankyou!!!
