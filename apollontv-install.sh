@@ -10,7 +10,7 @@ clear
 downloadatv() {
 
 	clear
-	wget --quiet --no-check-certificate -O /home/$USERNAME/Desktop/apollontv-1.0.deb <debian-url>
+	wget --quiet --no-check-certificate -O /home/$USERNAME/Desktop/apollontv-1.0.deb https://github.com/alectramell/atv/raw/master/apollontv-1.0.deb
 	clear
 }
 
